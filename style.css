@@ -5,3 +5,13 @@ body {
 nav {
   margin-bottom: 20px;
 }
+
+h2 {
+  margin-bottom: 10px;
+}
+
+div {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
